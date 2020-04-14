@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>jQuery Dom Manipulation 2</title>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Mountains+of+Christmas&display=swap" rel="stylesheet">
+    <style>
+        .heading, .subheading {
+            font-family: 'Mountains of Christmas', cursive;
+            color: green
+        }
+        .subheading {
+            color: red;
+        }
+        .storyboard {
+            margin: 0 auto;
+            background-image: url("images/background.png");
+            background-position: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 700px;
+            width: 750px;
+            border: 2px solid blue;
+            text-align: center;
+            padding: 0 20px;
+        }
+        .storyline {
+            padding: 0 80px;
+            font-size: 1.15rem;
+            font-weight: bold;
+            line-height: 2.3;
+        }
+        .storyline > * {
+            text-decoration: underline;
+            position: relative;
+        }
+        .storyline > span:after {
+            font-size: 1rem;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 9px;
+        }
+        .word1::after, .word7::after {
+            content: "[noun]";
+        }
+        .word2:after {
+            content: "[location]";
+        }
+        .word3:after, .word5:after, .word6:after {
+            content: "[verb]";
+        }
+        .word4:after {
+            content: "[boy's name]";
+        }
+        .word8:after {
+            content: "[kind of food]";
+        }
+        .word9:after {
+            content: "[verb with -ed]";
+        }
+        .word10:after {
+            content: "[number]";
+        }
+        .word11:after {
+            content: "[adjective]"
+        }
+        .word12:after {
+            content: "[noun]";
+        }
+        .word13:after {
+            content: "[plural shape]";
+        }
+        .word14:after {
+            content: "[Exclamation]";
+        }
+        .word15:after {
+            content: "[adverb]";
+        }
+    </style>
+</head>
+<body>
+
+    <div class="storyboard">
+        <h1 class="heading"> North Pole Story Time</h1>
+        <h2 class="subheading">A Crazy The Elf on the Shelf Adventure</h2>
+        <div class="storyline">
+            I was sitting on a <span class="word1">__________</span> just the other day [in] <span class="word2">__________</span>.
+            "What a silly place to sit," I thought. So I decided to <span class="word3">__________</span> to the nearest shelf.
+            Just then I noticed <span class="word4">__________</span> the family dog.  He had seen me moving and I clearly caught his eye.
+        Maybe if I just <span class="word5">__________</span> right here, he won't notice me. But no matter how hard I tried, it didn't work.
+        That is when I decided it would be a better idea to <span class="word6">__________</span> over to the <span class="word7">__________</span> instead.  Still, the dog was on his way
+        to investigate and I was worried I was about to become [a] doggie <span class="word8">_____________</span>.
+            It was time to use some Christmas magic.  I closed my eyes, <span class="word9">________________</span> <span class="word10">__________</span> times,
+            said the magic words, "<span class="word11">__________</span> <span class="word12">__________</span>",
+        and ran in <span class="word13">_____________</span>, and when I opened my eyes the dog was gone.
+            <span class="word14">__________</span>! I guess you don't always need Christmas magic.  It looks like acting <span class="word15">__________</span> will do the trick!.
+        </div>
+    </div>
+
+    <script>
+
+      //Your code here
+
+    </script>
+</body>
+</html>
