@@ -19,7 +19,7 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
   - Favorite Food
   - Favorite Movie
 
-If you are having trouble logging to the console feel free to checkout the [guide](../guides/logging-to-the-console.md)
+If you are having trouble logging to the console feel free to checkout the [guide](../../guides/logging-to-the-console.md)
 
 <p align="center">
   <img src="images/variables-solution.JPG" alt="js-variables">
