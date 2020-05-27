@@ -10,6 +10,13 @@ In order to develop those skills, you are going to be traversing an exiting HTML
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the difference between the `parentNode` and `parentElement` properties?
+1. Why is it important to be able to traverse the DOM?
+1. What kind of information is useful to store in custom attributes?
+
 ### Exercise
 
 1. Read 208 - 211 in JavaScript and Jquery by Duckett.
@@ -24,23 +31,20 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
     - Document.querySelector [**here**.](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
     - Node.textContent [**here**.](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent)
 6. Now, do the following using the included HTML structure in the `index.html` file.
-    - select the element with the id of `section1`
-        - then select the `section1` elements `h3` child element using the appropriate DOM traversal property, and assign the string which is currently assigned to the `heading-info` attribute on that `h3` element into a variable named `headingInfo`.
+    - Use JavaScript to select the element with the id of `section1`
+        - then, select the `section1` element's `h3` child element using the appropriate DOM traversal property
+        - now, target the  `heading-info` attribute on that `h3` element, and store the `string` value assigned there into a variable named `headingInfo`
         - next, console log the `headingInfo` variable and confirm that is has the correct string assigned to it.
-    - now, select the element with the id of `childH1`
-        - then, select the parent element of the `childH1` element using the appropriate DOM traversal property, and assign the string which is currently assigned to the `parent-info` attribute into a variable named `parentInfo`.
+    - now, use JavaScript to select the element with the id of `childH1`
+        - then, select the parent element of the `childH1` element using the appropriate DOM traversal property,
+        - next, target the `parent-info` attribute on the parent element and store the `string` value assigned there into a variable named `parentInfo`.
         - console log the `parentInfo` variable to confirm that it has the correct string assigned to it.
-    - lastly, select the element with the class of `p-element`
-        - then select the `p-element` sibling which has the `sibling-info` attribute on it using the appropriate DOM traversal property, and assign the string which is currently assigned to the `sibling-info` attribute into a variable named `siblingInfo`.
-        - console log the `siblingInfo` variable to confirm that it has the correct string assigned to it.
+    - lastly, use JavaScript select the element with the class of `p-element`
+        - then, select the `p-element` sibling which has the `sibling-info` attribute on it using the appropriate DOM traversal property
+        - now, target the `sibling-info` attribute on the sibling element and store the `string` value assigned there into a variable named `siblingInfo`.
+        - finally, console log the `siblingInfo` variable to confirm that it has the correct string assigned to it.
 7. When the above is complete, make sure to include a screenshot of your console output with your pull request!
 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is the difference between the `parentNode` and `parentElement` properties?
-- Why is it important to be able to traverse the DOM?
-- What kind of information is useful to store in custom attributes?
