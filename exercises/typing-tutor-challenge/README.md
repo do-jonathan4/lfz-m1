@@ -64,6 +64,20 @@ For this challenge you will be using HTML, CSS, and JavaScript to create a simpl
 - [`keyboardEvent.key`](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/key)
 - [`alert`](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
 
+## Stretch Features
+
+### User Can Choose from a list of phrases to practice.
+
+  - Give the user the option of three different phrases to choose from
+
+### User Can Enter their own custom phrases.
+
+  - Using a text input, allow the user to enter a phrase to practice typing
+
+### User Can see their words per minute.
+
+  - Display the words per minute typed along with the typing accuracy
+
 ### Submitting Your Solution
 
 When your solution is complete, return to the root of your `lfz-lessons` directory. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
