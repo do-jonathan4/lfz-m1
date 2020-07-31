@@ -6,6 +6,13 @@ This exercise will introduce you to the second contributing factor to the CSS Ca
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is inheritance?
+1. Why might CSS include this feature?
+1. Is inheritance a good tool to use for styling? If so, on what occasions?
+
 ### Exercise
 
 1. Read about CSS inheritance on page 240 of _HTML & CSS_ by Duckett.
@@ -23,8 +30,4 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
 
-### Quiz
 
-- What is inheritance?
-- Why might CSS include this feature?
-- Is inheritance a good tool to use for styling? If so, on what occasions?

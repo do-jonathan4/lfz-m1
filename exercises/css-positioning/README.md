@@ -6,6 +6,14 @@ This exercise will cover the CSS `position` property, and how it can be used to 
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the **default** value for the position property of HTML elements?
+1. How does setting position **relative** on an element affect document flow and where the element appears on the page?
+1. How does setting position **absolute** on an element affect document flow and where the element appears on the page?
+1. What are the box offset properties?
+
 ### Introduction
 
 1. Read about positioning in pages 358-365 of _HTML & CSS_ by Duckett.
@@ -48,10 +56,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is the **default** position of HTML elements?
-- How does **relatively** positioning an element affect document flow and where it appears on the page?
-- How does **absolutely** positioning an element affect document flow and where it appears on the page?
-- What are the box offset properties?

@@ -6,6 +6,13 @@ The `for` loop is another variant type of loop within Javascript. It is commonly
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. How does a `for` loop differ from a `while` loop?
+1. What potential use cases are there for `for` loops?
+1. Which pieces of information provided in the parentheses for a `for` loop are mandatory?
+
 ### Exercise
 
 1. Create an `index.html` file and a `main.js` file in the `javascript-for` directory.
@@ -16,7 +23,7 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 1. In this exercise, we will be writing three different `for` loops, which will be broken into separate sections below.
 ---
 In this first loop, you will be creating a loop that counts to 20 by 2's using multiplication.
-1. Below the console log you wrote from above, make a for loop that meets the following conditions:
+1. Make a for loop that meets the following conditions:
     - The starting value for the counter variable used by this loop should be 1. You may name the counter variable whatever you please.
     - The loop should continue while counter variable holds a value less than or equal to 10
     - The loop's counter variable should increase in value by 1 after each iteration of the loop
@@ -42,9 +49,3 @@ For the final loop of this exercise, we will be counting down from 10 to 0.
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- How does a `for` loop differ from a `while` loop?
-- What potential use cases are there for `for` loops?
-- Which pieces of information that are provided in the parentheses for a `for` loop are mandatory?

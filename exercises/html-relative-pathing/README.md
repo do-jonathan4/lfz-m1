@@ -12,6 +12,16 @@ Let's get started!
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. How do you indicate the parent folder in a path?
+1. How do you indicate the child folder in a path?
+1. How do you indicate the grand parent folder in a path?
+1. How do you indicate the current folder in a path?
+
+
+
 ### Exercise
 
 1. Read about HTML Relative Urls in pages 82-84 of _HTML & CSS_ by Duckett.
@@ -26,6 +36,7 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
     - `contact-us.html`
     - `projects.html`
       - Remember, each page will require you to create four links, one for each of the `HTML` pages.
+      - You should be able to link to any page from any page once the exercise is complete.
 
 5.  Finally, add the paths for the images to the `src` attributes of the img tags
 
@@ -38,10 +49,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- How do you indicate the parent folder in a path?
-- How do you indicate the child folder in a path?
-- How do you indicate the grand parent folder in a path?
-- How do you indicate the current folder in a path?

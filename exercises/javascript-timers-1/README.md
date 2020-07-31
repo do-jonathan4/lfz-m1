@@ -6,6 +6,13 @@ A brief introduction to using setTimeout in JavaScript.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the first argument the function setTimeout takes?
+1. If the second argument is not passed into the setTimeout function, what is the default value?
+1. What are some scenarios where setTimeout can be useful?
+
 ### Exercise
 
 1. Read about `setTimeout` in the links below.
@@ -47,9 +54,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is the first argument the function setTimeout takes?
-- If the second argument is not passed into the setTimeout function, what is the default value?
-- What are some scenarios where setTimeout can be useful?

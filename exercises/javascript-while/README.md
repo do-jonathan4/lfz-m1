@@ -6,6 +6,16 @@ The purpose of loops in Javascript is the ability to repeat an action or set of 
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the purpose of a loop?
+1. Why might there be different kinds of loops?
+1. What is the purpose of a conditional expression as it relates to loops?
+1. Could a loop potentially go on forever?
+1. Could a loop never start?
+
+
 ### Exercise
 
 1. Create an `index.html` file and a `main.js` file in the `js-while` directory.
@@ -27,11 +37,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is the purpose of a loop?
-- Why might there be multiple different kinds of loops?
-- What is the purpose of a condition as it relates to loops?
-- Could a loop potentially go on forever?
-- Could a loop potentially never start?

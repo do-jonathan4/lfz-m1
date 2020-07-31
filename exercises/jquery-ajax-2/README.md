@@ -1,10 +1,16 @@
-# ajax
+# jquery-ajax-2
 
 Using `ajax` to send HTTP requests from the browser along with JS Dom Creation.
 
 ### Before You Begin
 
 Be sure to check out a new branch (from `master`) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md). Then navigate to the `exercises/jquery-ajax-2` directory in your terminal.
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Why might you need to build elements dynamically with data from an AJAX request?
+1. Should you use named functions or anonymous functions for success and error handlers?
 
 ### Exercise
 

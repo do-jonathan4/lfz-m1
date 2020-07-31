@@ -1,10 +1,17 @@
-# ajax
+# jquery-ajax-1
 
 Using `ajax` to send HTTP requests from the browser.
 
 ### Before You Begin
 
 Be sure to check out a new branch (from `master`) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md). Then navigate to the `exercises/jquery-ajax-1` directory in your terminal.
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. How does `ajax` work?
+1. Why did we need the jQuery CDN?
+1. How do you specify the request method (`GET`, `POST`, etc.) when calling `ajax`?
 
 ### Exercise
 
@@ -54,9 +61,3 @@ Be sure to check out a new branch (from `master`) for this exercise. Detailed in
 ### Submitting Your Solution
 
 When your solution is complete, return to the root of your `lfz-lessons` directory. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- How does `ajax` work?
-- Why did we need the jQuery CDN?
-- How do you specify the request method (`GET`, `POST`, etc.) when calling `ajax`?

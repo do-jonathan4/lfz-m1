@@ -6,6 +6,13 @@ By now you have used for loops to iterate through arrays.  But did you know ther
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is a for in loop?
+1. How do you target the value of a property in an object.
+1. When should you use a for in loop?
+
 ### Exercise
 
 1. Checkout these links to documentation about the for in loop:
@@ -56,9 +63,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is a for in loop?
-- How do you target the value of a key
-- When should you use a for in loop?

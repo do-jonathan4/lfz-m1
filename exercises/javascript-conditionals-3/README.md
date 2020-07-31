@@ -1,4 +1,4 @@
-# JavaScript-Conditionals-3
+# javascript-conditionals-3
 
 While the majority of conditionals statements you will be creating are of the `if` type, another very useful type of conditional statement is the `switch` statement.
 
@@ -9,6 +9,14 @@ So with the understanding that `switches` are very useful for 1 to 1 comparisons
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the primary use case for `switches`?
+1. Does the `default` case have to be at the bottom of the `switch` statement?
+1. What happens if there is no `break` statement between `cases`?
+
 
 ### Exercise
 
@@ -22,8 +30,8 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
         - operator will be assigned a math operator in a string (either "+","-","/", or "*").
         - result will be assigned a null value
     - below the variables, declare a switch statement which:
-        - adds, subtracts, multiplies, or divides the two numbers stored in `num1` and `num2`
-        based on the operator you assigned to the `operator` variable.
+        - Is prepared to add, subtract, multiply, or divide the two numbers stored in `num1` and `num2` based on the operator you assigned to the `operator` variable.
+            - Note: the switch statement must be able to perform all of the above calculation types depending on which operator is used!
         - stores the result of the calculation in the result variable you created in the previous step.
         - console logs the stored result once the switch has completed running.
         - console logs "Invalid operator" within the default case statement.
@@ -34,9 +42,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What kind of comparisons do switches excel at?
-- Does the `default` case have to be at the bottom of the `switch` statement?
-- What happens if there is no `break` statement between `cases`?

@@ -6,6 +6,11 @@ Using CSS to modify the colors of boxes and text.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Name three different types of values you can use to specify colors in CSS.
+
 ### Exercise
 
 1. Read about color in pages 246-254 in _HTML & CSS_ by Duckett.
@@ -26,7 +31,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Name three different kinds of value you can use to specify colors in CSS.

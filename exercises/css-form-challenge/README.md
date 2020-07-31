@@ -1,4 +1,4 @@
-# CSS-Form-Challenge
+# css-form-challenge
 
 The purpose of this layout challenge is to enhance your ability to build out a web page based on a supplied graphic. In addition, you will be practicing your implementation of HTML forms which are an integral part of web design.
 

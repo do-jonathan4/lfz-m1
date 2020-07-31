@@ -1,4 +1,4 @@
-# CSS-Float
+# css-float
 
 Float was originally designed to allow developers to float text around image elements similar to the way newspapers and magazines would display text. For example:
 
@@ -13,6 +13,13 @@ So with that in mind, let's take a look at float!
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What were floats originally designed for?
+1. What are clears for with floats?
+1. What are some of the downsides for using floats in layout design?
 
 ### Exercise
 
@@ -36,9 +43,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What were floats originally designed for?
-- What are clears for with floats?
-- What are some of the downsides for using floats in layout design?

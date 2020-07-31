@@ -1,0 +1,76 @@
+html {
+  font-family: 'Pangolin', cursive;
+  font-size: 18px;
+}
+h1 {
+  text-align: center;
+  font-size: 2rem;
+}
+form {
+  text-align: center;
+}
+label {
+  font-size: 1.4rem;
+}
+.form-group > label {
+  display: block;
+}
+.radio-group {
+  margin: 1.2rem;
+}
+button {
+  font-size: 1.2rem;
+  background-color: #0a19e4;
+  border-radius: 10px;
+  color: white;
+  padding: 8px;
+  border-style: none;
+}
+button:hover {
+  cursor: pointer;
+  background-color: #3c49ff;
+}
+input {
+  border-radius: 8px;
+  padding: 8px;
+  font-size: 1.2rem;
+}
+.form-group {
+  margin: 10px;
+}
+.library-container {
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
+  flex-wrap: wrap;
+}
+
+/* The classes below will be useful in finishing your challenge */
+
+.shelf {
+  width: 250px;
+  height: 151px;
+  background-image: url('../images/bookshelf.png');
+  margin: 1.2rem;
+}
+.book {
+  width: 44px;
+  height: 30px;
+  margin-top: 24px;
+  border: 2px solid black;
+  border-radius: 5px;
+  display: inline-block;
+  text-align: center;
+  transform: rotateZ(-90deg);
+  font-size: .7rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.error-message {
+  height: 20px;
+  color: red;
+  text-align: center;
+  font-size: 1rem;
+  margin: 1.5rem;
+}

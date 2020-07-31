@@ -6,6 +6,13 @@ Using CSS to animate between user interface states.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What are 3 examples of what can be done with CSS transitions?
+1. Why might transitions be a helpful effect for styling?
+1. Are all properties able to be transitioned?
+
 ### Exercise
 
 1. Read about the CSS `transition` property in the [CSS Tricks Almanac](https://css-tricks.com/almanac/properties/t/transition/).

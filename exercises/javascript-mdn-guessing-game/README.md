@@ -1,4 +1,4 @@
-# JavaScript-MDN-Guessing-Game
+# javascript-mdn-guessing-game
 
 One of the most difficult and frustrating aspects of learning development is being able to take a complex problem and break it down into its component parts. The primary reason for this is that in general, average daily life does not require us to develop complex problem breakdown abilities which translate well into programming.
 
@@ -12,6 +12,13 @@ Let's get started!
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. How would you alter the game to make the choice from 1 - 500?
+1. What are the disadvantages of inline styling via JavaScript?
+1. What things do you have to consider when building a `reset game` function?
+
 ### Exercise
 
 1. First, open the MDN `A first Splash into JavaScript` documentation [**here**.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
@@ -22,9 +29,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- How would you alter the game to make the choice from 1 - 500?
-- What are the disadvantages of inline styling via JavaScript?
-- What things do you have to consider when building a `reset game` function?

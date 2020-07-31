@@ -6,6 +6,15 @@ This exercise will be your introduction to the first Factor that contributes to 
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What purpose does the CSS Cascade serve?
+1. What is source order?
+1. In what situations might you need to apply styling to a single element multiple times in one stylesheet?
+
+
+
 ### Exercise
 
 The CSS "Cascade" is the process by which the CSS language determines what styling should ultimately be applied to an element. In situations where a property has been declared for an element only once, this is a very straight-forward process. For instance:
@@ -55,9 +64,3 @@ In situations like this, the CSS Cascade is responsible for determining which de
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What purpose does the CSS Cascade serve?
-- What is source order?
-- In what situations might you need to apply styling to a single element multiple times in one stylesheet?

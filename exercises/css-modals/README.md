@@ -6,6 +6,13 @@ Creating an element which can overlay all other content of the DOM.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is a modal?
+1. What are some use cases for modals?
+1. Why does a modal usually need to occupy the entire height and width of the viewport?
+
 ### Exercise
 
 1. Read the introduction to [Modal window](https://en.wikipedia.org/wiki/Modal_window) on Wikipedia.
@@ -18,7 +25,8 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
     - Set the available area of the viewport it will work within.
     - Set the position of the modal contents within it.
 1. Within the rule-set for elements with a class of `modal-overlay`, please do the following:
-    - Set the `position` property with a value of `fixed`, in order to make it position itself above the document flow.
+    - Set the `position` property to have a value of `fixed`, in order to make it position itself above the document flow.
+    - Set the `top` property to have a value of `0`. This will make the element appear at the top of the available area, which will be the top of the viewport.
     - Set the `display` property to have a value of `flex`. This will make any elements this rule-set matches into Flexbox elements.
     - Set the `justify-content` property to have a value of `center`. This will set any child elements to be centered horizontally.
     - Set the `align-items` property to have a value of `center`. This will set any child elements to be centered vertically.
@@ -40,9 +48,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is a modal?
-- What are some use cases for modals?
-- Why does a modal usually need to occupy the entire height and width of the viewport?

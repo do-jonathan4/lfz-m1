@@ -1,10 +1,18 @@
-# javascript-primitive-data-types-numbers
+# javascript-primitive-numbers
 
 A brief introduction to  numbers in JavaScript.
 
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is a number in JavaScript?
+1. What is an arithmetic operator?
+1. Name four of the arithmetic operators?
+1. What is the order of execution?
 
 ### Exercise
 
@@ -66,10 +74,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is a number?
-- What is an arithmetic operator?
-- Name four of the arithmetic operators?
-- What is the order of execution?

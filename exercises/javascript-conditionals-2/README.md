@@ -1,4 +1,4 @@
-# JavaScript-Conditionals-2
+# javascript-conditionals-2
 
 Effectively using conditional statements for logic flow in your applications will always be an important skill. No decision can be made within an application without the use of conditional statements.
 
@@ -9,6 +9,13 @@ Let's get started!
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Why do you want to avoid using `==` for comparison?
+1. Do all `if` statements require an `else` statement?
+1. What is the proper syntax for using the `or` operator?
 
 ### Exercise
 
@@ -34,9 +41,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Why do you want to avoid using == for comparison?
-- Do all if statements require an else statement?
-- What is the proper syntax for using the `or` operator?

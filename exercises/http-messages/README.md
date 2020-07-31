@@ -6,6 +6,14 @@ Communicating between clients and servers on the web.
 
 Be sure to check out a new branch (from `master`) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md). Then navigate to the `exercises/http-messages` directory in your terminal.
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is a client?
+1. What is a server?
+1. Which HTTP method does a browser issue to a web server when you visit a URL?
+1. What are the formats of HTTP Requests and Responses?
+
 ### Exercise
 
 1. Read the introduction to the [Client-Server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model), [Client-server roles](https://en.wikipedia.org/wiki/Client%E2%80%93server_model#Client_and_server_role), and [Client-server communication](https://en.wikipedia.org/wiki/Client%E2%80%93server_model#Client_and_server_communication) on Wikipedia.
@@ -48,10 +56,3 @@ Be sure to check out a new branch (from `master`) for this exercise. Detailed in
 ### Submitting Your Solution
 
 When your solution is complete, return to the root of your `senior-front-end-lessons` directory. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is a client?
-- What is a server?
-- Which HTTP method does a browser issue to a web server when you visit a URL?
-- What are the formats of HTTP Requests and Responses?

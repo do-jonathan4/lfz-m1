@@ -1,10 +1,20 @@
-# javascript-primitive-data-types-strings
+# javascript-primitive-strings
 
 A brief introduction to using strings in JavaScript.
 
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is a string?
+1. What is the string concatenation operator?
+1. What is the difference when it comes to using single quotes or double quotes ( `' '` or `" "` )?
+1. How do you `escape` quotation characters?
+1. What is type coercion?
+
 
 ### Exercise
 
@@ -18,7 +28,7 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
     - Street Number
     - Street Name
 
-1. Use `typeof` and log the type of the variable that has the street number assigned to it to the console. You can find the documentation to `typeof` [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof). If you are having trouble logging to the console feel free to checkout the [guide](../../guides/logging-to-the-console.md) .
+1. Use `typeof` and log the type of the variable that has the street number assigned to it to the console. You can find the documentation to `typeof` [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof). If you are having trouble logging to the console feel free to checkout the [guide](../guides/logging-to-the-console.md) .
 
 1. Your console should look like the image below:
     <p align="center">
@@ -76,11 +86,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is a string?
-- What is the string concatenation operator?
-- What is the difference when it comes to using single quotes or double quotes ( `' '` or `" "` )?
-- How do you `escape` a quotation character?
-- What is type coercion?

@@ -6,6 +6,16 @@ A brief introduction to using functions in JavaScript.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is a function?
+1. Why are functions useful?
+1. How do you call a function?
+1. What are the parts of a function definition?
+1. What is the difference between a parameter and an argument?
+
+
 ### Exercise
 
 In this exercise you will be defining eleven **functions** in eleven sub-exercises.
@@ -217,11 +227,3 @@ In this exercise you will be defining eleven **functions** in eleven sub-exercis
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is a function?
-- Why are functions useful?
-- How do you call a function?
-- What are the parts of a function defintion?
-- What is the difference between a parameter and an argument?

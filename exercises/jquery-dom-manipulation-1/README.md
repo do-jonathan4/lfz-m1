@@ -1,4 +1,4 @@
-# jQuery-Dom-Manipulation-1
+# jquery-dom-manipulation-1
 
 In this exercise you are going to notice that you have done the html portion in a previous exercise.  The purpose of this exercise is to display that anything you can do using jQuery, you can do with vanilla JavaScript.  That is because the jQuery library is created using vanilla JavaScript.
 
@@ -7,6 +7,17 @@ Let's get started!
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is jQuery?
+1. What is the jQuery selector function?
+1. What does the jQuery selector function return?
+1. Why would someone use jQuery over vanilla Javascript?
+1. What are some downsides from using jQuery over vanilla Javascript?
+1. Why do we use the `<script>` tag at the bottom of the body, instead of putting it inside the `<head>` tag?
+
 
 ### Exercise
 
@@ -79,12 +90,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is jQuery?
-- What is the jQuery selector function?
-- What does the jQuery selector function return?
-- Why would someone use jQuery over vanilla Javascript?
-- What are some downsides from using jQuery over vanilla Javascript?
-- Why do we use the `<script>` tag at the bottom of the body, instead of putting it inside the `<head>` tag?

@@ -1,10 +1,17 @@
-# CSS-Grid-Layout
+# css-grid-layout
 
 Now that you have created a very simple grid system and are familiar with the components, namely `containers`, `rows`, and `columns`, It is time to recreate an example grid layout using a slightly more robust grid system. This will be very important practice for being able to create a grid layout based on a supplied image.
 
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. How do you think building this layout would be different without a grid system?
+1. What advantages do you see with using a grid system?
+1. Why are media queries crucial to responsive grid designs?
 
 ### Exercise
 
@@ -49,9 +56,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- How do you think building this layout would be different without a grid system?
-- What advantages do you see with using a grid system?
-- Why are media queries crucial to responsive grid designs?

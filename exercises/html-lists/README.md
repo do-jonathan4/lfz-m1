@@ -6,6 +6,13 @@ Using HTML to display lists of information.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the difference between an ordered list and an unordered list in HTML?
+1. What three HTML elements do you use to build a description list?
+
+
 ### Exercise
 
 1. Read about HTML lists in pages 62-72 of _HTML & CSS_ by Duckett.
@@ -20,8 +27,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is the difference between an ordered list and an unordered list in HTML?
-- What three HTML elements do you use to build a description list?

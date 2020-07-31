@@ -6,6 +6,14 @@ An exercise involving jQuery and dom manipulation.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. How do you get the text out of an HTML element?
+1. How do you get the value out of an HTML input field?
+1. What's the difference between `.text()` and `.html()`?
+1. What does `.on()` do?
+
 ### Exercise
 
 1. Read about jQuery in pages 314-317, 326, and 343 of _JavaScript and jQuery_ by Duckett.
@@ -95,10 +103,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- How do you get the text out of an HTML element?
-- How do you get the value out of an HTML input field?
-- What's the difference between `.text()` and `.html()`?
-- What does `.on()` do?

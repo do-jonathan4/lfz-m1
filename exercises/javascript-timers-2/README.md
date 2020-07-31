@@ -6,6 +6,13 @@ A brief introduction to using setInterval in JavaScript.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What does the setInterval function return?
+1. What argument does the clearInterval function take?
+1. What are some scenarios where setInterval can be useful?
+
 ### Exercise
 
 1. Read about `setInterval` in the links below.
@@ -60,9 +67,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What does the setInterval function return?
-- What argument does the clearInterval function take?
-- What are some scenarios where setInterval can be useful?

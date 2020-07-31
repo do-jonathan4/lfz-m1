@@ -7,6 +7,14 @@ In this exercise you are going to use vanilla javascript to create elements and 
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What are two ways to target elements on the DOM?
+1. What is another way to add a text node to an element other than using **textContent**.
+1. How do you create a HTML element using vanilla Javascript?
+
+
 ### Exercise
 
 1. Read about DOM creation in 223 and 224 in _JavaScript and jQuery_ by Duckett.
@@ -75,9 +83,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What are some ways to target elements on the DOM?
-- What is another way to add a text node to an element besides using **textContent**.
-- How do you create a HTML element using vanilla Javascript?
