@@ -1,10 +1,17 @@
-# CSS-Resets
+# css-resets
 
 The use of a CSS Reset is tied to responsive and predictable CSS layouts. The reason for this is that every web browser has slightly different default styling behavior for HTML elements, and unless a reset it used, your layouts will not always respond in the expected manner. In this exercise, you will be creating a simple CSS reset to gain some insight into how they work and what considerations you should take into account when creating or using other CSS resets.
 
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Why are CSS resets helpful for cross browser compatibility?
+1. Why is it important to be mindful of what you reset with your CSS resets?
+1. What is an argument against using CSS resets?
 
 ### Exercise
 
@@ -31,9 +38,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Why are CSS resets helpful for cross browser compatibility?
-- Why is it important to be mindful of what you reset with your CSS resets?
-- What is an argument against using CSS resets?

@@ -6,6 +6,14 @@ Converting data to and from strings.
 
 Be sure to check out a new branch (from `master`) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md). Then navigate to the `exercises/javascript-and-json` directory in your terminal.
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is JSON?
+1. What are serialization and deserialization and why are they useful?
+1. How to you serialize data into a JSON string using JavaScript?
+1. How do you deserialize a JSON string using JavaScript?
+
 ### Exercise
 
 1. Read about JSON in the MDN WebDocs - [No, really, what is JSON?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON#No_really_what_is_JSON).
@@ -21,10 +29,3 @@ Be sure to check out a new branch (from `master`) for this exercise. Detailed in
 ### Submitting Your Solution
 
 When your solution is complete, return to the root of your `lfz-lessons` directory. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is JSON?
-- What are serialization and deserialization and why are they useful?
-- How to you serialize data into a JSON string using JavaScript?
-- How do you deserialize a JSON string using JavaScript?

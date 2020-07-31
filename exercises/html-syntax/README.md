@@ -6,6 +6,15 @@ Exploring the syntax of HTML documents.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Give five examples of HTML element tags.
+1. What is the purpose of HTML attributes?
+1. Give an example of an HTML entity (escape character).
+
+
+
 ### Exercise
 
 1. Read about HTML tag syntax on pages 23-26, and 38 of _HTML & CSS_ by Duckett.
@@ -28,9 +37,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Give five examples of HTML element tags.
-- What is the purpose of HTML attributes?
-- Give an example of an HTML entity (escape character).

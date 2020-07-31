@@ -6,6 +6,14 @@ Using HTML anchor tags to link to other HTML documents or websites.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is an absolute URL?
+1. What is a relative URL?
+1. What other ways can we use an anchor tag?
+
+
 ### Exercise
 1. Read about HTML Links in pages 74-80 of _HTML & CSS_ by Duckett.
 1. Review the example web page gif below.
@@ -31,9 +39,3 @@ Read page 86 of _HTML & CSS_ by Duckett for more information.
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is an absolute URL?
-- What is a relative URL?
-- What other ways can we use an anchor tag?

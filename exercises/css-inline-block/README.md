@@ -6,6 +6,15 @@ Using the CSS `display` properties to affect placement of elements on DOM.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the initial display property of `<div>`s?
+1. What is the difference between `display: none` and `visibility: hidden`?
+1. What is the difference between the `block`, `inline block`, and `inline` display properties?
+
+
+
 ### Introduction
 
 1. Read about inline, block, and inline-block on page 317 of _HTML & CSS_ by Duckett.
@@ -81,9 +90,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Why did we not add `display: block` property to the `<div>`?
-- What is the difference between `display: none` and `visibility: hidden`?
-- What is the difference between `block` and `inline block`?

@@ -6,6 +6,12 @@ Exploring the syntax of style sheets.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What are the names of the individual pieces of a CSS rule?
+1. How are `key/value` pairs related to CSS?
+
 ### Exercise
 
 1. Read about CSS syntax in pages 226-244 in _HTML & CSS_ by Duckett. Pay especially close attention to page 238.
@@ -35,7 +41,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What are the names of the individual pieces of a CSS rule?

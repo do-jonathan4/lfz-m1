@@ -6,6 +6,14 @@ Learning the basics of Flexbox, a single axis element positioning toolkit which 
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the default `flex-direction` of a `flex` container?
+1. What is the default `flex-wrap` of a `flex` container?
+1. Why should flexbox not be used for building complete web page layouts?
+
+
 ### Introduction
 
 Flexbox is a collection of CSS properties that allow you to easily control the layout and alignment of child elements on a web page. In this exercise, you'll be completing a series of challenges involving some of the most common flexbox CSS properties.
@@ -77,9 +85,3 @@ Each challenge comes with its own HTML document and shares some of the CSS in `r
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is the default `flex-direction` of a `flex` container?
-- What is the default `flex-wrap` of a `flex` container?
-- Why should flexbox not be used for building complete web page layouts?

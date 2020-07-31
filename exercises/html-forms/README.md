@@ -10,6 +10,14 @@ Let's get started!
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the purpose of an HTML form element?
+1. Give five examples of form control elements.
+1. Give three examples of `type` attributes for HTML `<input>` elements.
+
+
 ### Exercise
 
 1. Read about HTML forms in pages 144-164 and 170-174 in _HTML & CSS_ by Duckett.
@@ -38,8 +46,5 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
 
-### Quiz
 
-- What is the purpose of an HTML form element?
-- Give five examples of form control elements.
-- Give three examples of `type` attributes for HTML `<input>` elements.
+

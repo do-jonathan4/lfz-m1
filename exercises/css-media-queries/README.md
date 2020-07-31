@@ -6,6 +6,13 @@ Conditionally applying styles to a document based on media type and features.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Give two examples of media features that you can query in an `@media` rule.
+1. Which HTML meta tag is used in mobile-responsive web pages?
+
+
 #### Introduction
 
 1. Read the introduction to [Responsive Web Design](https://en.wikipedia.org/wiki/Responsive_web_design) on Wikipedia.
@@ -47,8 +54,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Give two examples of media features that you can query in an `@media` rule.
-- Which HTML meta tag is used in mobile-responsive web pages?

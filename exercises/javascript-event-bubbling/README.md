@@ -7,6 +7,12 @@ In this exercise you are going to use the event object to find the element that 
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is event bubbling?
+1. What is the difference between `event.target` and `event.currentTarget`.
+
 ### Exercise
 
 1. Read about event bubbling on pages 260 and 261 in _JavaScript and jQuery_ by Duckett.
@@ -72,8 +78,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is event bubbling?
-- What is the difference between `event.target` and `event.currentTarget`.

@@ -1,4 +1,4 @@
-# JavaScript-Dom-Traversal
+# javascript-dom-traversal
 
 When it comes to working with the DOM, a very important skill to have is the ability to traverse the DOM in order to select and manipulate elements.
 
@@ -35,14 +35,17 @@ After completing this exercise, you should be able to discuss or answer the foll
         - then, select the `section1` element's `h3` child element using the appropriate DOM traversal property
         - now, target the  `heading-info` attribute on that `h3` element, and store the `string` value assigned there into a variable named `headingInfo`
         - next, console log the `headingInfo` variable and confirm that is has the correct string assigned to it.
+            - The correct string value is: `"I am a headline element size 3"`
     - now, use JavaScript to select the element with the id of `childH1`
         - then, select the parent element of the `childH1` element using the appropriate DOM traversal property,
         - next, target the `parent-info` attribute on the parent element and store the `string` value assigned there into a variable named `parentInfo`.
         - console log the `parentInfo` variable to confirm that it has the correct string assigned to it.
+            - The correct string value is: `"I am the parent of an h1"`
     - lastly, use JavaScript select the element with the class of `p-element`
         - then, select the `p-element` sibling which has the `sibling-info` attribute on it using the appropriate DOM traversal property
-        - now, target the `sibling-info` attribute on the sibling element and store the `string` value assigned there into a variable named `siblingInfo`.
-        - finally, console log the `siblingInfo` variable to confirm that it has the correct string assigned to it.
+        - now, assign the text content of the selected element into a variable named `siblingText`.
+        - finally, console log the `siblingText` variable to confirm that it has the correct string assigned to it.
+            - The correct string value is: `"or even a sibling"`
 7. When the above is complete, make sure to include a screenshot of your console output with your pull request!
 
 ### Submitting Your Solution

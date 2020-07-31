@@ -6,6 +6,14 @@ A brief introduction to using booleans, undefined, and null in JavaScript.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is a boolean?
+1. What is a comparison operator?
+1. What is the difference between undefined and null?
+
 ### Exercise
 
 In the **boolean** section of this exercise we will be declaring variables representing data of a computer on sale in an online store.
@@ -86,9 +94,3 @@ In this section we will give a small introduction to **undefined** and **null** 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is a boolean?
-- What is a comparison operator?
-- What is the difference between undefined and null?

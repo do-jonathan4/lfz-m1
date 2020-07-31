@@ -1,4 +1,4 @@
-# JavaScript-Conditionals-1
+# javascript-conditionals-1
 
 The purpose of conditional statements are to allow decision making within an application based on the current truthy or falsyness of an expression.
 
@@ -7,9 +7,20 @@ As the developer, it is your task to create a logical flow of data in your appli
 But, before you dive into logic creation, you are going to explore the nature of truthyness and falsyness in JavaScript. Then using your knew understanding of truthy and falsy, you will create a couple conditional `if` statements and use them to explore `==` vs `===` comparisons.
 
 Let's get started.
+
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Why is it important to understand truthy and falsy values?
+1. Why is the typeof an object `null`?
+1. What is the difference between null and undefined?
+1. Why do you always use `===` for comparisons?
+
+
 
 ### Exercise
 
@@ -42,13 +53,7 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
     - JavaScript Null: [**Click Me!**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null)
     - JavaScript Undefined: [**Click Me!**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined)
     - JavaScript NaN: [**Click Me!**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)
+    
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Why is it important to understand truthy and falsy values?
-- Why is typeof null an object?
-- What is the difference between null and undefined?
-- Why do you always use `===` for comparisons?

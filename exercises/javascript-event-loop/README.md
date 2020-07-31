@@ -6,6 +6,14 @@ The event loop is one of the most important aspects to understand about JavaScri
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the event loop?
+1. What does the term _blocking_ mean?
+1. What is the call stack?
+
+
 ### Exercise
 
 
@@ -58,7 +66,7 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 
     - `"Hello 2 seconds later"`
 
-1. Using `setInterval` and `clearInterval`, log the following string to the console every 10 seconds, 5 times.
+1. Using `setInterval` and `clearInterval`, log the following string to the console every 1 second, 5 times.
 
     - `"Intervals"`
 
@@ -73,9 +81,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is the event loop?
-- What does the term _blocking_ mean?
-- What is the call stack?

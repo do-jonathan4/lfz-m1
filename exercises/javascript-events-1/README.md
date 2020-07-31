@@ -1,4 +1,4 @@
-# JavaScript-Events-1
+# javascript-events-1
 
 Events are when something happens in an application. A great example of this is when a button is clicked on a webpage. Another is when an input is clicked to allow the user to type into it. Even the webpage loading is an event.
 
@@ -11,6 +11,13 @@ So with this basic understanding of an event happening on a webpage, and a funct
 ### Before You Begin
 
 Be sure to check out a new branch for this exercise and make a directory for it. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What are some of the drawbacks of HTML Event Handler Attributes?
+1. Why is the Window.event property useful for finding an element which was interacted with?
+1. Why is the Window.event property to be avoided in new code?
 
 ### Exercise
 
@@ -37,9 +44,3 @@ Be sure to check out a new branch for this exercise and make a directory for it.
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What are some of the drawbacks of HTML Event Handler Attributes?
-- Why is the Window.event property useful for finding an element which was interacted with?
-- Why is the Window.event property to be avoided in new code?

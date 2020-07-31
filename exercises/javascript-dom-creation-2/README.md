@@ -7,6 +7,12 @@ In this exercise you are going to use vanilla javascript to create elements and 
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Why is using loops and arrays for creating multiple dom elements preferable to creating them one at a time?
+1. Why are arrays preferred over objects for the functionality referenced in question 1?
+
 ### Exercise
 
 1. There is no reading material in this exercise, it uses the same concepts you learned in your last exercise along with a couple more challenging tasks.  If you would like a refresher please read about DOM creation on pages 223 and 224 in _JavaScript and jQuery_ by Duckett.
@@ -99,7 +105,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Compared to the previous exercise, why would this be a better way of DOM creation?

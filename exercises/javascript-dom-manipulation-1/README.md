@@ -1,4 +1,4 @@
-# JavaScript-Dom-Manipulation-1
+# javascript-dom-manipulation-1
 
 One of the primary tasks of a JavaScript developer is manipulation of the DOM. Proper execution of DOM manipulation techniques allows the developer to create dynamic websites with content which is updated to reflect the wants and needs of the user.
 
@@ -11,6 +11,14 @@ Let's get started!
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the primary advantage to storing your selected elements in a variable?
+1. Why might you need JavaScript to modify the DOM after the page loads?
+1. How can you better prepare when writing HTML for DOM manipulation in your JavaScript code?
+
 
 ### Exercise
 
@@ -58,9 +66,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is the primary advantage to storing your selected elements in a variable?
-- Why might you need JavaScript to modify the DOM after the page loads?
-- How can you better prepare when writing HTML for DOM manipulation in your JavaScript code?

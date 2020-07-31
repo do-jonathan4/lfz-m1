@@ -6,6 +6,12 @@ Using the CSS `transform` property to modify the rotation or position of HTML el
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What does the transform property do?
+1. What is the difference between the `:first-child` pseudo selector and the `:last-child` pseudo selector?
+
 ### Exercise
 
 1. Read about the `rotate()` transform in the [CSS Tricks Almanac](https://css-tricks.com/almanac/properties/t/transform/#article-header-id-2).
@@ -24,8 +30,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What does the transform property do?
-- What is the difference between the `:first-child` pseudo selector and the `:last-child` pseudo selector?

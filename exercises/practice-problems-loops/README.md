@@ -1,4 +1,4 @@
-# Practice Problem Loops challenge
+# practice-problems-loops
 
 The objective of this collection of loops exercises is to familiarize you with the syntax and structure of For, For In, and While loops, and to have practice with problem solving.
 

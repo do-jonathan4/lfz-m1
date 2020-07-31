@@ -1,4 +1,4 @@
-# JavaScript-Dom-Manipulation-2
+# javascript-dom-manipulation-2
 
 Now that you have some experience with selecting DOM elements and making modifications, it is time for some practical experience adding and removing values from `text` and `input` elements.
 
@@ -11,6 +11,13 @@ Let's get started!
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What are the differences between `innertext` and `textContent`?
+1. What datatype are the values you remove from a text input?
+1. Why is it so important to be able to dynamically update text?
 
 ### Exercise
 
@@ -47,9 +54,3 @@ property [**here**.](https://developer.mozilla.org/en-US/docs/Web/API/HTMLDataEl
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What are the differences between `innertext` and `textContent`?
-- What datatype are the values you remove from a text input?
-- Why is it so important to be able to dynamically update text?

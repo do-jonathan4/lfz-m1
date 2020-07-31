@@ -6,6 +6,12 @@ Using CSS to customize the typeface of an HTML document.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What are three important considerations for choosing fonts?
+1. Why must you have backup fonts assigned when selecting custom fonts?
+
 ### Exercise
 
 1. Read about typeface in pages 264-270 of _HTML & CSS_ by Duckett.

@@ -1,4 +1,4 @@
-# JavaScript-Events-2
+# javascript-events-2
 
 In modern JavaScript development, `event listeners` have replaced `HTML Event Attributes` for managing the functionality which occurs when a particular event is fired.
 
@@ -9,6 +9,13 @@ With that knowledge in hand, let's get started!
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is the difference between the `getElementById()` method and the `querySelector()` method?
+1. Who passes in the event object into the `handleClick` callback function?
+1. Does a callback function require a name?
 
 ### Exercise
 
@@ -35,9 +42,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is the difference between the `getElementById()` method and the `querySelector()` method?
-- Who passes in the event object into the `handleClick` callback function?
-- Does a callback function require a name?

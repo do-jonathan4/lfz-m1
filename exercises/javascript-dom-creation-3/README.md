@@ -7,6 +7,12 @@ In this exercise you are going to use vanilla javascript to create elements and 
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Why is it important to be able to retrieve and use data from inputs?
+2. Why is it dangerous to assume you have the correct data when creating elements?
+
 ### Exercise
 
 1. There is no reading material in this exercise, it uses the same concepts you learned in your last few exercises. In the documentation list below I will include pages from _JavaScript and jQuery_ by Duckett just incase you need a refresher on concepts from previous exercises.

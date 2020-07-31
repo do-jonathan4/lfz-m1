@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #231E39;
+}
+.avatar-card {
+  position: relative;
+  width: 376px;
+  border-radius: 12px;
+  color: whitesmoke;
+  background-color: #231E39;
+  box-shadow: 0px 15px 14px 0px rgba(0,0,0,0.75);
+}
+.profile-picture-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 1.2rem;
+}
+.profile-picture-container > .profile-picture {
+  border-radius: 50%;
+  height: 120px;
+  border: 2px solid rgb(0, 221, 221);
+  padding: 6px;
+}
+.avatar-info {
+  text-align: center;
+}
+.action-container {
+  text-align: center;
+  margin-bottom: 1.2rem;
+}
+.action-container > button {
+  border: none;
+  padding: .6rem 2.5rem;
+  border-radius: 6px;
+  background-color: rgb(2, 207, 207);
+  border: 1px solid rgb(2, 207, 207);
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  margin: .6rem .2rem;
+}
+.action-container > button:last-child {
+  background-color: inherit;
+  color: whitesmoke
+}
+button:hover {
+  cursor: pointer;
+}
+.avatar-skills {
+  padding: .2rem 1.2rem;
+  background-color: rgb(31, 0, 51);
+}
+.skills-container {
+  margin: 1rem 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.skills-container > li {
+  list-style: none;
+  border: 1px solid whitesmoke;
+  padding: 4px;
+  margin: 2px;
+}
+.badge {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  border-radius: 3px;
+  padding: 3px 6px;
+  font-size: .8rem;
+}
+.online {
+  background-color: rgb(2, 207, 207);
+}
+.offline {
+  background-color: maroon
+}

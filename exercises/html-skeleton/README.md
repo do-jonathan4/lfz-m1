@@ -6,6 +6,14 @@ Learning the basic structure of HTML documents.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Where do you put non-visible content about the HTML document?
+1. Where do you put visible content about the HTML document?
+1. Where do the `<head>` and `<body>` tags go in a valid HTML document?
+1. What is the purpose of a `<!DOCTYPE>` declaration?
+
 ### Exercise
 
 1. Read pages 19-22, 27-28, and 181 in _HTML & CSS_ by Duckett.
@@ -25,10 +33,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Where do you put non-visible content about the HTML document?
-- Where do you put visible content about the HTML document?
-- Where do the `<head>` and `<body>` tags go in a valid HTML document?
-- What is the purpose of a `<!DOCTYPE>` declaration?

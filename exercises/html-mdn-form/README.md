@@ -1,4 +1,4 @@
-# HTML-MDN-Form
+# html-mdn-form
 
 HTML forms are an integral part of web development. Their ability to receive data and send it to outside computer systems, specifically computer servers, makes them indispensible to developers. Forms also have a large amount of functionality built in to them, and that functionality requires that you understand that parts which make up a form.
 
@@ -9,6 +9,14 @@ So with that in mind, let's get started!
 ### Before You Begin
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
+
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Why are forms useful?
+1. What attribute do you have to match between a `label` and an `input`?
+1. What type of input allows you to select multiple items in a dropdown?
+1. What is the `action` of a form?
 
 ### Exercise
 
@@ -25,10 +33,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Why are forms useful?
-- What attribute do you have to match between a `label` and an `input`?
-- What type of input allows you to select multiple items in a dropdown?
-- What is the `action` of a form?

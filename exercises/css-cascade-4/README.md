@@ -6,6 +6,17 @@ This exercise will introduce you to the fourth and final factor in the CSS Casca
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What is specificity?
+1. How is specificity calculated?
+1. Why might CSS include this feature?
+1. What is the order of selector strengths for CSS specificity (commonly referred to as the Specificity Hierarchy)?
+1. What is the CSS Cascade?
+
+
+
 ### Exercise
 
 1. Read and bookmark the [MDN explanation of CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity).
@@ -28,11 +39,3 @@ In the `style.css` document, you will be creating a series of CSS rule-sets to t
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What is specificity?
-- How is specificity calculated?
-- Why might CSS include this feature?
-- What is the order of selector strengths for CSS specificity (commonly referred to as the Specificity Hierarchy)?
-- What is the CSS Cascade?

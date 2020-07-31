@@ -6,6 +6,12 @@ Choosing the right type of HTML element for your layout based on purpose and pro
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. Why would we choose specific element types when we have elements such as `div` and `span` which can be used for anything?
+1. What factors contribute to a well-designed HTML document?
+
 ### Exercise
 
 1. Review the following documentation prior to beginning the exercise:
@@ -39,8 +45,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- Why would we choose specific element types when we have elements such as `div` and `span` which can be used for anything?
-- What factors contribute to a well-designed HTML document?

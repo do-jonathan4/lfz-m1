@@ -6,6 +6,13 @@ Controlling basic content layout with the CSS Box Model.
 
 Be sure to check out a new branch (**from master**) for this exercise. Detailed instructions can be found [**here**](../../guides/before-each-exercise.md).
 
+### Quiz Questions
+After completing this exercise, you should be able to discuss or answer the following questions:
+
+1. What CSS properties make up the box model?
+1. Which CSS property pushes boxes away from each other?
+1. Which CSS property pushes box content away from its border?
+
 ### Exercise
 
 1. Read pages 300-305, 307-314, and 317 in _HTML & CSS_ by Duckett.
@@ -27,9 +34,3 @@ Be sure to check out a new branch (**from master**) for this exercise. Detailed 
 ### Submitting Your Solution
 
 When your solution is complete, change directories to the root of your lessons repository. Then commit your changes, push, and submit a Pull Request on GitHub. Detailed instructions can be found [**here**](../../guides/after-each-exercise.md).
-
-### Quiz
-
-- What CSS properties make up the box model?
-- Which CSS property pushes boxes away from each other?
-- Which CSS property pushes box content away from its border?
