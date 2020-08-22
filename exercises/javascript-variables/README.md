@@ -20,7 +20,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 ### Exercise
 
-1. Read about variables in pages 58-61 of _JavaScript and jQuery_ by Duckett.
+1. Read about variables in pages 58-69 of _JavaScript and jQuery_ by Duckett.
 1. Review the example console screenshot below.
 1. Create an `index.html` and add a basic [HTML Skeleton](../html-skeleton/README.md).
 1. Create an `main.js` and add a `<script>` tag to your `index.html` with a path to the `main.js` file.
