@@ -35,7 +35,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 1.  Use **dot notation** to access the `firstName` and `lastName` properties inside your object and combine them into a string. Assign the new string to a variable called `studentsName`.
 
-1.  Log `studentsName` to the console with the appropriate label. If you are having trouble logging to the console feel free to checkout the [guide](../guides/logging-to-the-console.md).
+1.  Log `studentsName` to the console with the appropriate label. If you are having trouble logging to the console feel free to checkout the [guide](../../guides/logging-to-the-console.md).
 
     Your console should now look like this:
 

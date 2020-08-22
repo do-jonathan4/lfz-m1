@@ -28,7 +28,7 @@ After completing this exercise, you should be able to discuss or answer the foll
     - Street Number
     - Street Name
 
-1. Use `typeof` and log the type of the variable that has the street number assigned to it to the console. You can find the documentation to `typeof` [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof). If you are having trouble logging to the console feel free to checkout the [guide](../guides/logging-to-the-console.md) .
+1. Use `typeof` and log the type of the variable that has the street number assigned to it to the console. You can find the documentation to `typeof` [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof). If you are having trouble logging to the console feel free to checkout the [guide](../../guides/logging-to-the-console.md) .
 
 1. Your console should look like the image below:
     <p align="center">

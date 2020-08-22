@@ -34,7 +34,7 @@ In the **boolean** section of this exercise we will be declaring variables repre
     For the variable checking if the price is less than 100, you will need to use a **comparison operator** which you can read about on page 75 of _JavaScript and jQuery_ by Duckett in the section titled _Comparison Operators_.
 
 
-1. Log your variables to the console with the appropriate labels.  If you are having trouble logging to the console feel free to checkout the [guide](../guides/logging-to-the-console.md)
+1. Log your variables to the console with the appropriate labels.  If you are having trouble logging to the console feel free to checkout the [guide](../../guides/logging-to-the-console.md)
 
 
 1. Your console should look like the image below:

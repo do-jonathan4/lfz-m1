@@ -24,7 +24,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 
 1. Create an **array literal** with three values `'red'`, `'white'`, and `'blue'` and assign the array to a variable called `colors`.  Make sure the order of the colors remains the same.
 
-1. Log the first, second, and third values in the array, with proper labels.  If you are having trouble logging to the console feel free to checkout the [guide](../guides/logging-to-the-console.md).
+1. Log the first, second, and third values in the array, with proper labels.  If you are having trouble logging to the console feel free to checkout the [guide](../../guides/logging-to-the-console.md).
 
     <p align="center">
       <img src="images/rdt-2-1.JPG" alt="js-rdt-arrays">
